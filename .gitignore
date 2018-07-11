@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Video files
+*.mp4
+*.avi
+
+# Darknet, Darkflow and Tensorflow files
+cfg/
+*.cfg
+*.weights
